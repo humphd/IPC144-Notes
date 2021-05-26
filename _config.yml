@@ -23,7 +23,7 @@ title: Notes Sandbox Testing
 description: Test site for development on Git published notes
 show_downloads: false
 google_analytics:
-theme: modernist
+theme: jekyll-theme-modernist
 
 #theme: minima
 plugins:

@@ -24,7 +24,7 @@ description: Test site for development on Git published notes
 show_downloads: false
 google_analytics:
 #theme: minima
-theme: modernist
+theme: jekyll-theme-modernist
 
 plugins:
   - jekyll-feed

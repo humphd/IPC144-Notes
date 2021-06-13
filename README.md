@@ -34,7 +34,9 @@ description: Introduction to C Programming
 |  | [Algorithms](refinements/algorithms.md) |
 | 13 | [Portability](refinements/portability.md) |
 
-Seneca College of Applied Arts and Technology
+_School of Software Design and Data Science \(SDDS\)_
 
-School of Software Design and Data Science \(SDDS\)
+_Seneca College of Applied Arts and Technology_
+
+\_\_
 

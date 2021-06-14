@@ -10,7 +10,7 @@ After reading this section, you will be able to:
 
 ## Introduction
 
-Computers are available in many flavors: mobile devices, smart phones, laptops, tablets, desktops, workstations and servers to name a few.  All of these devices control their operations through software.  Programmers create this software.  Users rely on this software to operate their devices. 
+Computers are available in many flavours: mobile devices, smart phones, laptops, tablets, desktops, workstations and servers to name a few.  All of these devices control their operations through software.  Programmers create this software.  Users rely on this software to operate their devices. 
 
 We refer to the software with which a user operates their device as application software.  Application software consists of one or more programs.  Each program is a full set of instructions that performs a well-defined task on the host device.  Programmers code these instructions in a programming language. 
 
